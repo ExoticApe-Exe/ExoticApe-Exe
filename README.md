@@ -12,14 +12,16 @@
   <!-- Animated Role -->
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2200&pause=400&color=FF00CC&center=true&vCenter=true&width=650&lines=AI+%7C+NLP+%7C+ML;Building+Intelligent+Systems;Backend+%2B+AI+Integration;Always+Learning+🚀" />
 </p>
+
+
 ---
+
 <p align="center">
-  ⚡ <b>AI & Data Science Engineer</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer" />
 </p>
 
 <p align="center">
-  🎓 Final-Year B.Tech in Artificial Intelligence & Data Science <br>
-  🤖 Building intelligent AI systems, NLP solutions & scalable backend applications
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=1800&pause=400&color=FF00CC&center=true&vCenter=true&width=650&lines=AI+%7C+NLP+%7C+ML;Building+Intelligent+Systems;Backend+%2B+AI+Integration;Always+Learning+🚀" />
 </p>
 
 ---
