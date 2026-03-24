@@ -1,85 +1,76 @@
-<!-- ================= BANNER ================= -->
+<!-- 🔥 ULTRA HEADER -->
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ExoticApe-Exe/ExoticApe-Exe/main/assets/banner.png" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=260&section=header&text=SHARMA%20S&fontSize=60&fontAlignY=45&animation=twinkling&fontColor=ffffff"/>
 </p>
 
-<!-- ================= HEADER ================= -->
-<h1 align="center">
-  Sharma S
-</h1>
+<!-- 👁️ VIEWS -->
 
 <p align="center">
-  ⚡ AI & Data Science Engineer ⚡
+  <img src="https://komarev.com/ghpvc/?username=ExoticApe-Exe&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<!-- ================= TYPING ================= -->
+<!-- ⚡ ROLE -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%7C+NLP+%7C+ML;Building+Intelligent+Systems;Scaling+AI+Solutions" />
+  ⚡ <b>AI & Data Science Engineer</b> ⚡
 </p>
 
-<!-- ================= NEON LINE ================= -->
+<!-- 💜 CORE ANIMATION -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:FF00CC&height=4"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2000&pause=500&color=FF00CC&center=true&vCenter=true&width=420&lines=AI+%7C+NLP+%7C+ML" />
 </p>
 
----
+<!-- ✨ DIVIDER -->
 
-## 🙏 Namaste
-
-<div align="center">
-
-💎 Final-Year B.Tech in Artificial Intelligence & Data Science  
-🚀 Designing intelligent systems, NLP solutions & scalable AI backends  
-
-💀 *I make machines intelligent… while forgetting where I kept my charger*
-
-</div>
-
----
-
-<!-- ================= FLOATING EARTH ================= -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="280"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
+
+<!-- 💎 BIO -->
+
+<p align="center">
+  🎓 Final-Year B.Tech in Artificial Intelligence & Data Science <br>
+  🚀 Designing intelligent systems, NLP solutions & scalable AI backends
+</p>
+
+<p align="center">
+  💀 <i>I make machines intelligent… while forgetting where I kept my charger</i>
 </p>
 
 ---
 
-## ✨ About Me
+## ✨ <span style="color:#00F7FF;">About Me</span>
 
-<div align="center">
-
-🧠 AI & Data Science Final-Year Student  
-🤖 Focused on ML, NLP & Intelligent Systems  
-⚙️ Building real-world AI + Backend systems  
-📈 Improving models & scalability  
-
-</div>
+- 🧠 AI & Data Science Final-Year Student  
+- 🤖 Focused on Machine Learning, NLP & Intelligent Systems  
+- ⚙️ Building real-world AI + Backend integrated applications  
+- 📈 Continuously improving model performance & system design  
 
 ---
 
-<!-- ================= GLASS CARD ================= -->
-## ⚡ Tech Arsenal
+<!-- 🔥 TECH STACK ULTRA -->
 
-<div align="center">
+## ⚡ <span style="color:#FF00CC;">Tech Arsenal</span>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,angular,html,css,mongodb,git,pytorch,tensorflow,mysql,linux&theme=dark" />
-
-<br><br>
-
-✨ **Building • Learning • Scaling • Evolving**
-
-</div>
-
----
-
-<!-- ================= NEON LINE ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00CC,100:00F7FF&height=4"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,angular,html,css,mongodb,git,pytorch,tensorflow,mysql,linux&theme=dark" />
+</p>
+
+<p align="center">
+  <b style="color:#00F7FF;">Building • Learning • Scaling • Evolving 🚀</b>
 </p>
 
 ---
 
-## 📊 GitHub Insights
+<!-- ✨ DIVIDER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
+
+## 📊 <span style="color:#00F7FF;">GitHub Insights</span>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ExoticApe-Exe&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
@@ -96,74 +87,38 @@
 
 ---
 
-## 🧠 Neural Activity
+## 🐍 Neural Activity Flow
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ExoticApe-Exe/ExoticApe-Exe/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/ExoticApe-Exe/ExoticApe-Exe/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
 ---
 
-<!-- ================= BLOG AUTO ================= -->
-## 📝 Latest Blogs
+<!-- ✨ DIVIDER -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=3000&color=FF00CC&center=true&vCenter=true&width=400&lines=Loading+Latest+Articles..." />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 </p>
 
-<!-- HASHNODE -->
-<p align="center">
-  <a href="https://hashnode.com/@YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Read%20My%20Blogs-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<!-- ================= PROJECTS ================= -->
-## 🚀 Projects
-
-<details>
-<summary>⚡ View Projects</summary>
-
-- 🧠 Cross-Lingual Title Verification (NLP + Embeddings)  
-- 📰 Fake News Detection (ML + NLP)  
-- 🚗 Vehicle Insurance Verification (OCR + AI)  
-
-</details>
-
----
-
-<!-- ================= ACHIEVEMENTS ================= -->
-## 🏆 Achievements
-
-<details>
-<summary>⚡ View Achievements</summary>
-
-- 🎓 Final Year AI & DS Student  
-- 🚀 Built multiple AI systems  
-- 📈 Strong backend + AI integration  
-
-</details>
-
----
-
-<!-- ================= CONNECT ================= -->
-## 🌐 Connect
+## 🌐 <span style="color:#FF00CC;">Connect</span>
 
 <p align="center">
 
-<a href="mailto:spunkyboy26@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&to=spunkyboy26@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/sharma-s-6b49b92a2">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://instagram.com/Exotic.ape">
   <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://discord.com/users/YOUR_USER_ID">
   <img src="https://skillicons.dev/icons?i=discord" height="40"/>
@@ -173,15 +128,12 @@
 
 ---
 
-## 💬 Philosophy
+## ⚡ Philosophy
 
-<p align="center">
-🚀 <i>"Intelligence is engineered through systems, not just models."</i>
-</p>
+> 🚀 *“Intelligence is engineered through systems, not just models.”*
 
 ---
 
-<!-- ================= FOOTER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
 </p>
