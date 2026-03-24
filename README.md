@@ -1,6 +1,6 @@
 <!-- 🔥 ULTRA PREMIUM BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff00cc,100:3333ff&height=280&section=header&text=SHARMA%20S&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:141E30,100:243B55&height=280&section=header&text=SHARMA%20S&fontSize=80&fontAlignY=45&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
 <h2 align="center">⚡ AI & Data Science Engineer</h2>
