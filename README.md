@@ -1,27 +1,26 @@
-<!-- 🔥 CLEAN ANIMATED BANNER WITH NAME INSIDE -->
+<!-- 🔥 CLEAN ANIMATED BANNER WITH NAME -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=260&section=header&text=SHARMA%20S&fontSize=60&fontAlignY=45&animation=twinkling&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=240&section=header&text=SHARMA%20S&fontSize=55&fontAlignY=45&animation=twinkling&fontColor=ffffff"/>
 </p>
+
+<!-- ⚡ ROLE (SMALL + CLEAN + LOOP) -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2200&pause=400&color=FF00CC&center=true&vCenter=true&width=650&lines=AI+%7C+NLP+%7C+ML;Building+Intelligent+Systems;Backend+%2B+AI+Integration;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2200&pause=600&color=00F7FF&center=true&vCenter=true&width=420&lines=AI+%26+Data+Science+Engineer" />
 </p>
+
+<!-- 💜 ROTATING SKILLS -->
 
 <p align="center">
-  <!-- Animated Role -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2200&pause=400&color=FF00CC&center=true&vCenter=true&width=650&lines=AI+%7C+NLP+%7C+ML;Building+Intelligent+Systems;Backend+%2B+AI+Integration;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=2000&pause=500&color=FF00CC&center=true&vCenter=true&width=500&lines=AI+%7C+NLP+%7C+ML;Building+Intelligent+Systems;Backend+%2B+AI+Integration;Always+Learning+🚀" />
 </p>
-
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=1800&pause=400&color=FF00CC&center=true&vCenter=true&width=650&lines=AI+%7C+NLP+%7C+ML;Building+Intelligent+Systems;Backend+%2B+AI+Integration;Always+Learning+🚀" />
+  🎓 Final-Year B.Tech in Artificial Intelligence & Data Science <br>
+  🤖 Building intelligent AI systems, NLP solutions & scalable backend applications
 </p>
 
 ---
@@ -78,27 +77,27 @@
 <p align="center">
 
 <a href="mailto:spunkyboy26@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="38"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/sharma-s-6b49b92a2">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="38"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://instagram.com/Exotic.ape">
-  <img src="https://skillicons.dev/icons?i=instagram" height="42"/>
+  <img src="https://skillicons.dev/icons?i=instagram" height="38"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://discord.com/users/DeSalvo.p4t">
-  <img src="https://skillicons.dev/icons?i=discord" height="42"/>
+  <img src="https://skillicons.dev/icons?i=discord" height="38"/>
 </a>
 
 </p>
 
-<p align="center" style="opacity:0.7;">
+<p align="center" style="opacity:0.6;">
 Gmail • LinkedIn • Instagram • Discord
 </p>
 
@@ -111,5 +110,5 @@ Gmail • LinkedIn • Instagram • Discord
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=110&section=footer"/>
 </p>
