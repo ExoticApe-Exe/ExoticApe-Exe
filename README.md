@@ -28,16 +28,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=2200&pause=600&color=00F7FF&center=true&vCenter=true&width=520&lines=Building+Intelligent+Systems;Designing+AI+Solutions;Backend+%2B+AI+Integration;Always+Learning+🚀" />
 </p>
 
----
+<!-- ✨ DIVIDER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
 
 <p align="center">
   🎓 Final-Year B.Tech in Artificial Intelligence & Data Science <br>
-  🤖 Designing intelligent systems, NLP solutions & scalable AI backends
+  🚀 Designing intelligent systems, NLP solutions & scalable AI backends
 </p>
 
 ---
 
-## 🧠 About Me
+## ✨ <span style="color:#00F7FF;">About Me</span>
 
 - 🧠 AI & Data Science Final-Year Student  
 - 🤖 Focused on Machine Learning, NLP & Intelligent Systems  
@@ -48,7 +52,13 @@
 
 ---
 
-## ⚙️ Tech Stack
+<!-- ✨ DIVIDER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
+
+## ⚙️ <span style="color:#FF00CC;">Tech Stack</span>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,php,js,flask,pytorch,git,github,vscode&theme=dark" />
@@ -56,7 +66,13 @@
 
 ---
 
-## 📊 GitHub Insights
+<!-- ✨ DIVIDER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
+
+## 📊 <span style="color:#00F7FF;">GitHub Insights</span>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ExoticApe-Exe&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
@@ -81,7 +97,13 @@
 
 ---
 
-## 🌐 Connect
+<!-- ✨ DIVIDER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
+
+## 🌐 <span style="color:#FF00CC;">Connect</span>
 
 <p align="center">
 
@@ -112,7 +134,7 @@ Gmail • LinkedIn • Instagram • Discord
 
 ---
 
-## ⚡ Philosophy
+## ⚡ <span style="color:#00F7FF;">Philosophy</span>
 
 > 🚀 *“Intelligence is engineered through systems, not just models.”*
 
