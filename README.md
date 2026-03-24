@@ -1,23 +1,22 @@
-<!-- 🔥 ULTRA REAL-STYLE BANNER -->
+<!-- 🔥 NEON ANIMATED HEADER -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=300&section=header&text=%20&fontSize=0"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=55&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&height=100&lines=SHARMA+S" />
 </p>
 
-<h1 align="center" style="margin-top:-180px; font-size:60px;">
-  SHARMA S
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2200&pause=400&color=FF00CC&center=true&vCenter=true&width=650&lines=AI+%7C+NLP+%7C+ML;Building+Intelligent+Systems;Backend+%2B+AI+Integration;Always+Learning+🚀" />
+</p>
 
-<p align="center" style="margin-top:-10px;">
-  ⚡ AI & Data Science Engineer
+---
+
+<p align="center">
+  ⚡ <b>AI & Data Science Engineer</b>
 </p>
 
 <p align="center">
   🎓 Final-Year B.Tech in Artificial Intelligence & Data Science <br>
   🤖 Building intelligent AI systems, NLP solutions & scalable backend applications
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Machine+Learning+%7C+NLP+%7C+AI;Building+Real-World+Systems;Backend+%2B+AI+Integration;Always+Learning+🚀&center=true&width=550&height=45">
 </p>
 
 ---
@@ -69,21 +68,33 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
-  <a href="mailto:spunkyboy26@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sharma-s-6b49b92a2">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://instagram.com/Exotic.ape">
-    <img src="https://img.shields.io/badge/Instagram-Profile-pink?style=for-the-badge&logo=instagram"/>
-  </a>
-  <a href="https://discord.com/users/DeSalvo.p4t">
-    <img src="https://img.shields.io/badge/Discord-DeSalvo.p4t-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
+
+<a href="mailto:spunkyboy26@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/sharma-s-6b49b92a2">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://instagram.com/Exotic.ape">
+  <img src="https://skillicons.dev/icons?i=instagram" height="42"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://discord.com/users/DeSalvo.p4t">
+  <img src="https://skillicons.dev/icons?i=discord" height="42"/>
+</a>
+
+</p>
+
+<p align="center" style="opacity:0.7;">
+Gmail • LinkedIn • Instagram • Discord
 </p>
 
 ---
@@ -95,5 +106,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 </p>
