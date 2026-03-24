@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="220">
+
+  <rect x="5" y="5" width="790" height="210" rx="20" ry="20"
+        fill="#0d1117" stroke="#a78bfa" stroke-width="2"/>
+
+  <text x="50%" y="90" text-anchor="middle"
+        font-size="22" fill="#FFD700">
+    தெய்வத்தான் ஆகா தெனினும் முயற்சிதன்
+  </text>
+
+  <text x="50%" y="125" text-anchor="middle"
+        font-size="22" fill="#FFD700">
+    மெய்வருத்தக் கூலி தரும்.
+  </text>
+
+  <text x="50%" y="165" text-anchor="middle"
+        font-size="14" fill="#9ca3af">
+    Meaning: Even if there is no God, effort itself will yield a worthy reward.
+  </text>
+
+  <text x="95%" y="195" text-anchor="end"
+        font-size="13" fill="#93c5fd">
+    — குறள் 619
+  </text>
+
+</svg>
