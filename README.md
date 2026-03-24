@@ -24,9 +24,6 @@
 
 <!-- 🔁 SECONDARY ANIMATION -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=2200&pause=600&color=00F7FF&center=true&vCenter=true&width=520&lines=Building+Intelligent+Systems;Designing+AI+Solutions;Backend+%2B+AI+Integration;Always+Learning+🚀" />
-</p>
 
 <!-- ✨ DIVIDER -->
 
