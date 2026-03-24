@@ -1,26 +1,32 @@
-<!-- 🔥 CLEAN ANIMATED BANNER WITH NAME -->
+<!-- 🔥 ULTRA HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=240&section=header&text=SHARMA%20S&fontSize=55&fontAlignY=45&animation=twinkling&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=260&section=header&text=SHARMA%20S&fontSize=60&fontAlignY=45&animation=twinkling&fontColor=ffffff"/>
 </p>
 
-<!-- ⚡ STATIC ROLE -->
+<!-- 👁️ PROFILE VIEWS -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ExoticApe-Exe&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<!-- ⚡ IDENTITY -->
 
 <p align="center">
   ⚡ <b>AI & Data Science Engineer</b> ⚡
 </p>
 
-<!-- 💜 ANIMATED SKILLS (CLEAN LOOP) -->
+<!-- 💜 CORE DOMAIN ANIMATION -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=2200&pause=600&color=FF00CC&center=true&vCenter=true&width=400&lines=AI+%7C+NLP+%7C+ML" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=2200&pause=600&color=FF00CC&center=true&vCenter=true&width=380&lines=AI+%7C+NLP+%7C+ML" />
 </p>
 
 ---
 
 <p align="center">
   🎓 Final-Year B.Tech in Artificial Intelligence & Data Science <br>
-  🤖 Building intelligent AI systems, NLP solutions & scalable backend applications
+  🤖 Designing intelligent systems, NLP solutions & scalable AI backends
 </p>
 
 ---
@@ -28,11 +34,11 @@
 ## 🧠 About Me
 
 - 🧠 AI & Data Science Final-Year Student  
-- 🤖 Focused on Machine Learning, NLP & Intelligent Systems  
-- ⚙️ Building real-world AI + Backend integrated applications  
-- 📈 Continuously learning advanced ML & system design  
+- 🤖 Strong focus on Machine Learning, NLP & AI Systems  
+- ⚙️ Building intelligent + scalable real-world applications  
+- 📈 Continuously improving system design & model performance  
 
-💡 *Turning complex ideas into intelligent solutions… and debugging along the way 😄*
+💡 *I don’t just train models — I design intelligent systems.*
 
 ---
 
@@ -44,19 +50,16 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ExoticApe-Exe&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ExoticApe-Exe&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ExoticApe-Exe&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ExoticApe-Exe&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ExoticApe-Exe&theme=tokyo-night&hide_border=true"/>
@@ -103,12 +106,12 @@ Gmail • LinkedIn • Instagram • Discord
 
 ---
 
-## ⚡ Personal Motto
+## ⚡ Philosophy
 
-> 🚀 *“I don’t just build AI models — I engineer intelligent systems.”*
+> 🚀 *“Intelligence is not built by code alone — it is engineered through systems.”*
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=110&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
