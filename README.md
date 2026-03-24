@@ -19,13 +19,13 @@
 <!-- 💜 CORE ANIMATION -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2000&pause=500&color=FF00CC&center=true&vCenter=true&width=400&lines=AI+%7C+NLP+%7C+ML" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2000&pause=500&color=FF00CC&center=true&vCenter=true&width=420&lines=AI+%7C+NLP+%7C+ML" />
 </p>
 
 <!-- 🔁 SECONDARY ANIMATION -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=2200&pause=600&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+Intelligent+Systems;Designing+AI+Solutions;Backend+%2B+AI+Integration;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=2200&pause=600&color=00F7FF&center=true&vCenter=true&width=520&lines=Building+Intelligent+Systems;Designing+AI+Solutions;Backend+%2B+AI+Integration;Always+Learning+🚀" />
 </p>
 
 ---
