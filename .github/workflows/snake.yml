@@ -13,6 +13,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # ✅ IMPORTANT STEP (THIS WAS MISSING)
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Generate snake
         uses: Platane/snk@v3
         with:
@@ -20,7 +24,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Push snake to branch
+      - name: Deploy to output branch
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output
