@@ -1,7 +1,7 @@
-<!-- 🔥 ULTRA HEADER -->
+<!-- 🔥 ULTRA ANIMATED HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=260&section=header&text=SHARMA%20S&fontSize=60&fontAlignY=45&animation=twinkling&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=260&section=header&text=SHARMA%20S&fontSize=60&fontAlignY=45&animation=twinkling&fontColor=ffffff"/>
 </p>
 
 <!-- 👁️ PROFILE VIEWS -->
@@ -10,16 +10,22 @@
   <img src="https://komarev.com/ghpvc/?username=ExoticApe-Exe&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<!-- ⚡ IDENTITY -->
+<!-- ⚡ STATIC ROLE -->
 
 <p align="center">
   ⚡ <b>AI & Data Science Engineer</b> ⚡
 </p>
 
-<!-- 💜 CORE DOMAIN ANIMATION -->
+<!-- 💜 CORE ANIMATION -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=2200&pause=600&color=FF00CC&center=true&vCenter=true&width=380&lines=AI+%7C+NLP+%7C+ML" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2000&pause=500&color=FF00CC&center=true&vCenter=true&width=400&lines=AI+%7C+NLP+%7C+ML" />
+</p>
+
+<!-- 🔁 SECONDARY ANIMATION -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=2200&pause=600&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+Intelligent+Systems;Designing+AI+Solutions;Backend+%2B+AI+Integration;Always+Learning+🚀" />
 </p>
 
 ---
@@ -34,11 +40,11 @@
 ## 🧠 About Me
 
 - 🧠 AI & Data Science Final-Year Student  
-- 🤖 Strong focus on Machine Learning, NLP & AI Systems  
-- ⚙️ Building intelligent + scalable real-world applications  
-- 📈 Continuously improving system design & model performance  
+- 🤖 Focused on Machine Learning, NLP & Intelligent Systems  
+- ⚙️ Building real-world AI + Backend integrated applications  
+- 📈 Continuously improving model performance & system design  
 
-💡 *I don’t just train models — I design intelligent systems.*
+💡 *Engineering intelligence, not just writing code.*
 
 ---
 
@@ -67,10 +73,10 @@
 
 ---
 
-## 🐍 Live Contribution Flow
+## ⚡ Neural Activity Flow
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ExoticApe-Exe/ExoticApe-Exe/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ExoticApe-Exe/ExoticApe-Exe/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
 ---
@@ -80,22 +86,22 @@
 <p align="center">
 
 <a href="mailto:spunkyboy26@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="38"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/sharma-s-6b49b92a2">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="38"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://instagram.com/Exotic.ape">
-  <img src="https://skillicons.dev/icons?i=instagram" height="38"/>
+  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://discord.com/users/DeSalvo.p4t">
-  <img src="https://skillicons.dev/icons?i=discord" height="38"/>
+  <img src="https://skillicons.dev/icons?i=discord" height="40"/>
 </a>
 
 </p>
@@ -108,10 +114,10 @@ Gmail • LinkedIn • Instagram • Discord
 
 ## ⚡ Philosophy
 
-> 🚀 *“Intelligence is not built by code alone — it is engineered through systems.”*
+> 🚀 *“Intelligence is engineered through systems, not just models.”*
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
 </p>
