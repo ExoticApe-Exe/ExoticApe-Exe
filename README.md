@@ -1,12 +1,18 @@
-<!-- 🔥 ULTRA PREMIUM BANNER -->
+<!-- 🔥 ULTRA REAL-STYLE BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:141E30,100:243B55&height=280&section=header&text=SHARMA%20S&fontSize=80&fontAlignY=45&animation=fadeIn&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=300&section=header&text=%20&fontSize=0"/>
 </p>
 
-<h2 align="center">⚡ AI & Data Science Engineer</h2>
+<h1 align="center" style="margin-top:-180px; font-size:60px;">
+  SHARMA S
+</h1>
+
+<p align="center" style="margin-top:-10px;">
+  ⚡ AI & Data Science Engineer
+</p>
 
 <p align="center">
-  🎓 Final-Year B.Tech Student in Artificial Intelligence & Data Science <br>
+  🎓 Final-Year B.Tech in Artificial Intelligence & Data Science <br>
   🤖 Building intelligent AI systems, NLP solutions & scalable backend applications
 </p>
 
@@ -72,7 +78,7 @@
   <a href="https://www.linkedin.com/in/sharma-s-6b49b92a2">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://instagram.com/Exotic.ape_">
+  <a href="https://instagram.com/Exotic.ape">
     <img src="https://img.shields.io/badge/Instagram-Profile-pink?style=for-the-badge&logo=instagram"/>
   </a>
   <a href="https://discord.com/users/DeSalvo.p4t">
@@ -89,5 +95,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3333ff,100:ff00cc&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
