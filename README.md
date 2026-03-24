@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <em><b>On a Journey to become a great human being...</b></em>
+  <em><b>On a Journey to become a great Human Being!</b></em>
 </div>
 
 ---
