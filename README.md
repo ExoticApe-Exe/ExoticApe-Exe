@@ -160,16 +160,14 @@ I am very passionate about:
 ---
 
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="80%"/>
-
+  <img src="https://raw.githubusercontent.com/ExoticApe-Exe/ExoticApe-Exe/main/assets/thirukkural.svg" width="80%"/>
 </div>
 
 ---
 
 <div align="center">
 
-## KEEP SUPPORTING
+## THANK YOU <3!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 
