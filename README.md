@@ -4,16 +4,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=240&section=header&text=SHARMA%20S&fontSize=55&fontAlignY=45&animation=twinkling&fontColor=ffffff"/>
 </p>
 
-<!-- ⚡ ROLE (SMALL + CLEAN + LOOP) -->
+<!-- ⚡ STATIC ROLE -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2200&pause=600&color=00F7FF&center=true&vCenter=true&width=420&lines=AI+%26+Data+Science+Engineer" />
+  ⚡ <b>AI & Data Science Engineer</b> ⚡
 </p>
 
-<!-- 💜 ROTATING SKILLS -->
+<!-- 💜 ANIMATED SKILLS (CLEAN LOOP) -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=2000&pause=500&color=FF00CC&center=true&vCenter=true&width=500&lines=AI+%7C+NLP+%7C+ML;Building+Intelligent+Systems;Backend+%2B+AI+Integration;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=2200&pause=600&color=FF00CC&center=true&vCenter=true&width=400&lines=AI+%7C+NLP+%7C+ML" />
 </p>
 
 ---
@@ -64,7 +64,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Live Contribution Flow
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ExoticApe-Exe/ExoticApe-Exe/output/github-contribution-grid-snake-dark.svg" />
@@ -97,7 +97,7 @@
 
 </p>
 
-<p align="center" style="opacity:0.6;">
+<p align="center">
 Gmail • LinkedIn • Instagram • Discord
 </p>
 
