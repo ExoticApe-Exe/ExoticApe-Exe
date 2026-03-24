@@ -1,16 +1,16 @@
-<!-- 🔥 ULTRA ANIMATED HEADER -->
+<!-- 🔥 ULTRA HEADER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=260&section=header&text=SHARMA%20S&fontSize=60&fontAlignY=45&animation=twinkling&fontColor=ffffff"/>
 </p>
 
-<!-- 👁️ PROFILE VIEWS -->
+<!-- 👁️ VIEWS -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ExoticApe-Exe&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<!-- ⚡ STATIC ROLE -->
+<!-- ⚡ ROLE -->
 
 <p align="center">
   ⚡ <b>AI & Data Science Engineer</b> ⚡
@@ -22,18 +22,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2000&pause=500&color=FF00CC&center=true&vCenter=true&width=420&lines=AI+%7C+NLP+%7C+ML" />
 </p>
 
-<!-- 🔁 SECONDARY ANIMATION -->
-
-
 <!-- ✨ DIVIDER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 </p>
 
+<!-- 💎 BIO -->
+
 <p align="center">
   🎓 Final-Year B.Tech in Artificial Intelligence & Data Science <br>
   🚀 Designing intelligent systems, NLP solutions & scalable AI backends
+</p>
+
+<p align="center">
+  💀 <i>I make machines intelligent… while forgetting where I kept my charger</i>
 </p>
 
 ---
@@ -45,20 +48,18 @@
 - ⚙️ Building real-world AI + Backend integrated applications  
 - 📈 Continuously improving model performance & system design  
 
-💡 *Engineering intelligence, not just writing code.*
-
 ---
 
-<!-- ✨ DIVIDER -->
+<!-- 🔥 TECH STACK ULTRA -->
+
+## ⚡ <span style="color:#FF00CC;">Tech Arsenal</span>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,angular,html,css,mongodb,git,pytorch,tensorflow,mysql,linux&theme=dark" />
 </p>
 
-## ⚙️ <span style="color:#FF00CC;">Tech Stack</span>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,js,flask,pytorch,git,github,vscode&theme=dark" />
+  <b style="color:#00F7FF;">Building • Learning • Scaling • Evolving 🚀</b>
 </p>
 
 ---
@@ -86,7 +87,7 @@
 
 ---
 
-## ⚡ Neural Activity Flow
+## 🐍 Neural Activity Flow
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ExoticApe-Exe/ExoticApe-Exe/output/github-contribution-grid-snake-dark.svg" width="100%"/>
@@ -104,7 +105,7 @@
 
 <p align="center">
 
-<a href="mailto:spunkyboy26@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&to=spunkyboy26@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 &nbsp;&nbsp;&nbsp;
@@ -119,19 +120,15 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://discord.com/users/DeSalvo.p4t">
+<a href="https://discord.com/users/YOUR_USER_ID">
   <img src="https://skillicons.dev/icons?i=discord" height="40"/>
 </a>
 
 </p>
 
-<p align="center">
-Gmail • LinkedIn • Instagram • Discord
-</p>
-
 ---
 
-## ⚡ <span style="color:#00F7FF;">Philosophy</span>
+## ⚡ Philosophy
 
 > 🚀 *“Intelligence is engineered through systems, not just models.”*
 
