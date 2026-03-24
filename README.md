@@ -1,25 +1,23 @@
 <div align="center">
 
-<!-- Decorative header divider with plant emoji (matching original) -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:0d1117&height=10&section=header" width="100%"/>
-
-<!-- Plant/nature decorative divider like the original -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="0" height="0"/>
-
-🌿🌿🌿🌿🌿🌿🌿🌱🌿🌿🌿🌿🌿🌿🌿
+<!-- Exact plant-hand animated divider from reference -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 
 <!-- Banner Image -->
-<img src="https://raw.githubusercontent.com/ExoticApe-Exe/ExoticApe-Exe/main/banner_png.jpg" width="100%" style="border-radius:8px;" alt="Banner"/>
+<img src="https://raw.githubusercontent.com/ExoticApe-Exe/ExoticApe-Exe/main/banner_png.jpg" width="100%" alt="Banner"/>
+
+<!-- Exact plant-hand animated divider from reference -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+
+<br/>
+
+<em><b>On a Journey to become a great Human Being!</b></em>
 
 </div>
 
-<div align="center">
-  <em><b>On a Journey to become a great Human Being!</b></em>
-</div>
+<br/>
 
----
-
-## Namaste 🪔
+## 👋 Hey All !
 
 I'm **Sharma S**, an **enthusiastic developer** hailing from the vibrant nation of India 🇮🇳
 
@@ -32,32 +30,26 @@ I'm a very curious person with a great desire to explore this world and do somet
 I am very passionate about:
 
 - 🤖 **AI & Data Science** 🧠
-- 🌐 **Web Development** 💻 & Programming 🖥️
-- 🔬 **Research** 📝 & Innovation 💡
-- 📊 **Mathematics** 📐 and much more...
+- 💻 **Web Development** & Programming 🖥️
+- 🔬 **Research** & Innovation 💡
+- 📐 **Mathematics** and much more...
+
+<br/>
 
 ---
 
-## Present Status
+## 🚀 Present Status
 
 - 🌱 Learning **Advanced ML**, **Deep Learning** & **LLMs**
-- 👥 Exploring **AI Communities** & Organizing Events 🎯
+- 👥 Exploring **AI Communities** & Organizing Events
 - ✍️ Writing Useful Content on various platforms
 - 🔨 Building & Contributing to **Open Source Projects**
 
-> **Update:** Working on exciting AI & Data Science projects — launching soon! 🚀
+> **Update:** Working on exciting AI & Data Science projects — launching soon!
 
 ---
 
-## Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-▶ [Show Blog Posts](https://github.com/ExoticApe-Exe)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## GitHub Stats 📊
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -74,46 +66,31 @@ I am very passionate about:
 
 ---
 
-## Skills 🌿
-
-<details>
-<summary>▶ Show Skills</summary>
-<br/>
+## 🛠️ Skills
 
 <div align="center">
 
-**AI & Data Science**
+**⚗️ AI & Data Science**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,jupyter,anaconda,r&theme=dark" />
 
-**Web & Tools**
+<br/><br/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**🌐 Web & Cloud**
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,firebase,docker&theme=dark" />
+
+<br/><br/>
+
+**🔧 Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,notion,postman,bash&theme=dark" />
 
 </div>
 
-</details>
-
 ---
 
-## My Projects & Open Source Contributions 🔥
-
-<details>
-<summary>▶ Show Projects & Contributions</summary>
-<br/>
+## 🔥 My Projects & Open Source Contributions
 
 - 🤖 **AI/ML Projects** — Building intelligent systems using Python, TensorFlow & PyTorch
 - 📊 **Data Science Notebooks** — Exploratory analysis, visualization & modeling
@@ -122,41 +99,42 @@ I am very passionate about:
 
 > *More exciting projects launching soon — stay tuned!* 🚀
 
-</details>
-
 ---
 
-## Achievements ⚡ & Testimonials 🤩
-
-<details>
-<summary>▶ Show Achievements</summary>
-<br/>
+## ⚡ Achievements & 🤩 Testimonials
 
 - 🎓 **Final Year** — AI & Data Science
 - 🏆 Participated in **Hackathons** & AI competitions
 - 📝 Contributed to **Open Source** projects
 - 🌍 Part of global **developer communities**
 
-</details>
-
-<details>
-<summary>▶ Show Testimonials</summary>
-<br/>
-
 > *"Passionate, dedicated and always willing to learn."*
-
-</details>
 
 ---
 
-## Connect With Me 🌐
+## 🌐 Connect With Me
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmas@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ExoticApe-Exe)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ExoticApe-Exe)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ExoticApe-Exe)
+<a href="mailto:sharmas@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/ExoticApe-Exe">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/ExoticApe-Exe">
+  <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://discord.com/users/ExoticApe-Exe">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/ExoticApe-Exe">
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -173,8 +151,8 @@ I am very passionate about:
 
 <div align="center">
 
-**[Thanks for Visiting! 😊](https://github.com/ExoticApe-Exe)**
+## KEEP SUPPORTING
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=80&section=footer" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 
 </div>
