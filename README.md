@@ -12,9 +12,7 @@
   <!-- Animated Role -->
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2200&pause=400&color=FF00CC&center=true&vCenter=true&width=650&lines=AI+%7C+NLP+%7C+ML;Building+Intelligent+Systems;Backend+%2B+AI+Integration;Always+Learning+🚀" />
 </p>
-
 ---
-
 <p align="center">
   ⚡ <b>AI & Data Science Engineer</b>
 </p>
