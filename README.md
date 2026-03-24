@@ -1,16 +1,43 @@
-## Hi there 👋
+<!-- 🔥 ANIMATED HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Sharma%20S&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-<!--
-**ExoticApe-Exe/ExoticApe-Exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Sharma S</h1>
+<h3 align="center">AI & Data Science Student • Building Intelligent Systems 🤖</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=AI+%26+Data+Science+Student;Machine+Learning+%7C+NLP+Enthusiast;Building+Real-World+AI+Systems;Tri-Path+Framework+Developer;Debugging+Life+and+Code+😄&center=true&width=600&height=50">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 🎓 Final-year **B.Tech AI & Data Science student**
+- 🤖 Passionate about **AI, NLP, and intelligent systems**
+- 🚀 Built a **Tri-Path Cross-Lingual Verification Framework**
+- ⚙️ Interested in **Backend + AI integration**
+- 📈 Currently learning **Advanced ML & System Design**
+
+💡 *Turning complex ideas into working systems… and sometimes into bugs 😄*
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,js,flask,pytorch,git" />
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### 🧠 LinguaVerify AI — Tri-Path Framework
+
+```diff
++ Cross-Lingual Title Verification System
++ Uses Embedding (LaBSE) + Translation (NLLB) + Structural Similarity
++ Hybrid scoring for higher accuracy
++ Explainable AI + Email Reporting
