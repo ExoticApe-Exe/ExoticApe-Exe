@@ -1,13 +1,11 @@
-<!-- 🔥 ANIMATED BACKGROUND HEADER (FAKE BG EFFECT) -->
+<!-- 🔥 CLEAN ANIMATED BANNER WITH NAME INSIDE -->
 
 <p align="center">
-  <!-- Background Layer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=260&section=header&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=260&section=header&text=SHARMA%20S&fontSize=60&fontAlignY=45&animation=twinkling&fontColor=ffffff"/>
 </p>
 
-<p align="center" style="margin-top:-180px;">
-  <!-- Main Name -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=55&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=SHARMA+S" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2200&pause=400&color=FF00CC&center=true&vCenter=true&width=650&lines=AI+%7C+NLP+%7C+ML;Building+Intelligent+Systems;Backend+%2B+AI+Integration;Always+Learning+🚀" />
 </p>
 
 <p align="center">
